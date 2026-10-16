@@ -1,1 +1,2 @@
 This is my first Git activity.
+This new line was added in the feature-branch.
